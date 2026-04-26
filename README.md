@@ -16,4 +16,5 @@ Fase 5 — Dashboard
 Conectar o Looker Studio ao BigQuery e montar os gráficos: série temporal de preço, variação percentual e volume.
 
 
-<img width="1440" height="1262" alt="image" src="https://github.com/user-attachments/assets/55b3da30-ceef-470a-a475-4545fbc84ef9" />
+<img width="743" height="551" alt="image" src="https://github.com/user-attachments/assets/a2fe10cf-6bb0-4502-bde7-0c4b7c39791c" />
+
