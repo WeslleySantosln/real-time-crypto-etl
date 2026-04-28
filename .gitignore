@@ -1,0 +1,11 @@
+gcp-key.json
+.env
+__pycache__/
+*.pyc
+.venv/
+data/
+ssw.py
+*.json.bak
+*.log
+.DS_Store
+start.sh
